@@ -1,4 +1,4 @@
 # web-demo
 This is my first Git Repository
 <br>
-Author Name: Maryam Shaikh
+Author Name: Maryam Sana
